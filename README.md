@@ -38,3 +38,4 @@ The main goal is to preprocess, analyze, and train a deep learning model that ca
 └── .ipynb_checkpoints/           # Auto-generated Jupyter checkpoints
 
 
+<img width="800" height="500" alt="age_distribution" src="https://github.com/user-attachments/assets/b1e6b933-2d5d-48a3-a054-3054da1e756a" />
