@@ -1,0 +1,35 @@
+# === Ignore raw and preprocessed datasets ===
+HAM10000_images/
+HAM10000_yolo_cls/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# === Ignore CSVs and backups ===
+*.csv
+*.xlsx
+
+# === Ignore notebook temp folders ===
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Ignore large model/output/log files ===
+*.pt
+*.h5
+*.pkl
+*.onnx
+*.log
+runs/
+outputs/
+logs/
+cache/
+
+# === Ignore IDE and system files ===
+.vscode/
+.env
+.DS_Store
+Thumbs.db
