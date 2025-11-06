@@ -34,4 +34,4 @@ cache/
 .DS_Store
 Thumbs.db
 
-!runs_skin_cancer/yolov8_skin_cls
+!runs_skin_cancer/yolov8_skin_cls/weights
