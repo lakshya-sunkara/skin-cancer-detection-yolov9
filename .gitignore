@@ -18,7 +18,7 @@ __pycache__/
 *.pyd
 
 # === Ignore large model/output/log files ===
-*.pt
+
 *.h5
 *.pkl
 *.onnx
@@ -34,4 +34,4 @@ cache/
 .DS_Store
 Thumbs.db
 
-!runs_skin_cancer/yolov8_skin_cls/weights
+
